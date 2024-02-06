@@ -1,0 +1,6 @@
+@Contact_List_API_Gavin.Server_HostAddress = http://localhost:5212
+
+GET {{Contact_List_API_Gavin.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
